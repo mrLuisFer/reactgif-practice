@@ -135,3 +135,17 @@ hr {
   font-weight: bold;
   font-size: 1rem;
 }
+
+@media screen and (max-width: 465px) {
+  .app-title {
+    font-size: 1.6rem;
+  }
+
+  .app-sub {
+    font-size: 0.6rem;
+  }
+
+  .inp {
+    width: 100%;
+  }
+}
