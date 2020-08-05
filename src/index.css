@@ -124,8 +124,7 @@ hr {
 
 .app-sub {
   text-transform: capitalize;
-  font-size: 0.9rem;
-  letter-spacing: 1px;
+  font-size: 0.6rem;
   color: #1b262c;
   font-weight: bold;
 }
