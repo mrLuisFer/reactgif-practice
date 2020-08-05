@@ -136,7 +136,7 @@ hr {
   font-size: 1rem;
 }
 
-@media screen and (max-width: 465px) {
+@media (max-width: 450px) {
   .app-title {
     font-size: 1.6rem;
   }
