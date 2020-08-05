@@ -147,14 +147,16 @@ hr {
 
   .inp {
     width: 100%;
+    padding: 0;
   }
 
   .card {
-    margin: 20px;
+    margin: 0;
   }
 
   body {
-    padding: 0;
+    padding: 35px 10px;
+    margin: 0;
   }
 
   ol {
